@@ -2,4 +2,4 @@
 
 Relationships
 * Many to many
-* One to one
+* One to many
